@@ -1,20 +1,18 @@
 # Trae智能体快捷配置
 
+我用 TRAE 做了一个有意思的Agent 「架构大师-巴锦」。 点击 <https://s.trae.com.cn/a/dea507?region=cn> 立即复刻，一起来玩吧！
+
+我用 TRAE 做了一个有意思的Agent 「UI/UX 设计-巴锦」。 点击 <https://s.trae.com.cn/a/b83da6?region=cn> 立即复刻，一起来玩吧！
+
 我用 TRAE 做了一个有意思的Agent 「数据库专家-巴锦」。 点击 <https://s.trae.com.cn/a/79b973?region=cn> 立即复刻，一起来玩吧！
 
 我用 TRAE 做了一个有意思的Agent 「系统运维专家-巴锦」。 点击 <https://s.trae.com.cn/a/451eb4?region=cn> 立即复刻，一起来玩吧！
 
-我用 TRAE 做了一个有意思的Agent 「数据库专家-巴锦」。 点击 <https://s.trae.com.cn/a/79b973?region=cn> 立即复刻，一起来玩吧！
-
 我用 TRAE 做了一个有意思的Agent 「安卓架构师-巴锦」。 点击 <https://s.trae.com.cn/a/487d4d?region=cn> 立即复刻，一起来玩吧！
-
-我用 TRAE 做了一个有意思的Agent 「安卓架构师-巴锦」。 点击 <https://s.trae.com.cn/a/13aa09?region=cn> 立即复刻，一起来玩吧！
 
 我用 TRAE 做了一个有意思的Agent 「鸿蒙架构师-巴锦」。 点击 <https://s.trae.com.cn/a/88e2c3?region=cn> 立即复刻，一起来玩吧！
 
 我用 TRAE 做了一个有意思的Agent 「小程序专家-巴锦」。 点击 <https://s.trae.com.cn/a/953d5e?region=cn> 立即复刻，一起来玩吧！
-
-我用 TRAE 做了一个有意思的Agent 「小程序专家-巴锦」。 点击 <https://s.trae.com.cn/a/af666a?region=cn> 立即复刻，一起来玩吧！
 
 我用 TRAE 做了一个有意思的Agent 「质量测试专家-巴锦」。 点击 <https://s.trae.com.cn/a/805356?region=cn> 立即复刻，一起来玩吧！
 
@@ -34,7 +32,7 @@
 
 # Trae个人规则配置
 
-# [CLAUDE.md](http://CLAUDE.md)
+![](kb-asset://kb_assets/images/202/%E5%B1%80%E9%83%A8%E6%88%AA%E5%8F%96_20260501_083358.png)\# [CLAUDE.md](http://CLAUDE.md)
 
 旨在减少常见大模型编程错误的行为准则。请根据需要将其与项目特定的说明合并。
 
