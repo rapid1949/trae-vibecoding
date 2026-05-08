@@ -81,20 +81,38 @@
   /* 任务列表去 marker */
   ul.task-list, ul.contains-task-list { list-style: none; padding-left: 1em; }
   .footnote-ref a { font-size: 0.8em; vertical-align: super; }
+  /* 批注：浅黄底 + 下划虚线，鼠标悬停由 title 属性自带 tooltip */
+  span[data-comment], .kb-annotation {
+    background: rgba(255, 234, 0, 0.35);
+    border-bottom: 1px dashed rgba(195, 157, 0, 0.85);
+    cursor: help;
+    padding: 0 1px;
+    border-radius: 2px;
+  }
+  /* 嵌入视频 iframe（B站 / YouTube / 腾讯 / 优酷）：16:9 响应式 */
+  iframe[data-embed-url] {
+    display: block;
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    height: auto;
+    border: 0;
+    border-radius: 6px;
+    margin: 1em 0;
+    background: #000;
+  }
 </style>
 </head>
 <body>
 <article>
 <h1>Trae的环境配置说明</h1>
 <h1>Trae智能体快捷配置</h1>
+<p>我用 TRAE 做了一个有意思的Agent 「架构大师-巴锦」。 点击 <a href="https://s.trae.com.cn/a/dea507?region=cn">https://s.trae.com.cn/a/dea507?region=cn</a> 立即复刻，一起来玩吧！</p>
+<p>我用 TRAE 做了一个有意思的Agent 「UI/UX 设计-巴锦」。 点击 <a href="https://s.trae.com.cn/a/b83da6?region=cn">https://s.trae.com.cn/a/b83da6?region=cn</a> 立即复刻，一起来玩吧！</p>
 <p>我用 TRAE 做了一个有意思的Agent 「数据库专家-巴锦」。 点击 <a href="https://s.trae.com.cn/a/79b973?region=cn">https://s.trae.com.cn/a/79b973?region=cn</a> 立即复刻，一起来玩吧！</p>
 <p>我用 TRAE 做了一个有意思的Agent 「系统运维专家-巴锦」。 点击 <a href="https://s.trae.com.cn/a/451eb4?region=cn">https://s.trae.com.cn/a/451eb4?region=cn</a> 立即复刻，一起来玩吧！</p>
-<p>我用 TRAE 做了一个有意思的Agent 「数据库专家-巴锦」。 点击 <a href="https://s.trae.com.cn/a/79b973?region=cn">https://s.trae.com.cn/a/79b973?region=cn</a> 立即复刻，一起来玩吧！</p>
 <p>我用 TRAE 做了一个有意思的Agent 「安卓架构师-巴锦」。 点击 <a href="https://s.trae.com.cn/a/487d4d?region=cn">https://s.trae.com.cn/a/487d4d?region=cn</a> 立即复刻，一起来玩吧！</p>
-<p>我用 TRAE 做了一个有意思的Agent 「安卓架构师-巴锦」。 点击 <a href="https://s.trae.com.cn/a/13aa09?region=cn">https://s.trae.com.cn/a/13aa09?region=cn</a> 立即复刻，一起来玩吧！</p>
 <p>我用 TRAE 做了一个有意思的Agent 「鸿蒙架构师-巴锦」。 点击 <a href="https://s.trae.com.cn/a/88e2c3?region=cn">https://s.trae.com.cn/a/88e2c3?region=cn</a> 立即复刻，一起来玩吧！</p>
 <p>我用 TRAE 做了一个有意思的Agent 「小程序专家-巴锦」。 点击 <a href="https://s.trae.com.cn/a/953d5e?region=cn">https://s.trae.com.cn/a/953d5e?region=cn</a> 立即复刻，一起来玩吧！</p>
-<p>我用 TRAE 做了一个有意思的Agent 「小程序专家-巴锦」。 点击 <a href="https://s.trae.com.cn/a/af666a?region=cn">https://s.trae.com.cn/a/af666a?region=cn</a> 立即复刻，一起来玩吧！</p>
 <p>我用 TRAE 做了一个有意思的Agent 「质量测试专家-巴锦」。 点击 <a href="https://s.trae.com.cn/a/805356?region=cn">https://s.trae.com.cn/a/805356?region=cn</a> 立即复刻，一起来玩吧！</p>
 <p>我用 TRAE 做了一个有意思的Agent 「前端工程专家-巴锦」。 点击 <a href="https://s.trae.com.cn/a/1b8e1a?region=cn">https://s.trae.com.cn/a/1b8e1a?region=cn</a> 立即复刻，一起来玩吧！</p>
 <p>我用 TRAE 做了一个有意思的Agent 「后端架构师-巴锦」。 点击 <a href="https://s.trae.com.cn/a/82db14?region=cn">https://s.trae.com.cn/a/82db14?region=cn</a> 立即复刻，一起来玩吧！</p>
